@@ -1,6 +1,7 @@
 { "translations": {
     "Maps" : "Haritalar",
     "left" : "sol",
-    "right" : "sağ"
+    "right" : "sağ",
+    "A simple maps app" : "Basit bir harita uygulaması"
 },"pluralForm" :"nplurals=2; plural=(n > 1);"
 }

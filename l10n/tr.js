@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Maps" : "Haritalar",
     "left" : "sol",
-    "right" : "sağ"
+    "right" : "sağ",
+    "A simple maps app" : "Basit bir harita uygulaması"
 },
 "nplurals=2; plural=(n > 1);");
