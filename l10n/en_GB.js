@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Maps" : "Maps",
     "left" : "left",
-    "right" : "right"
+    "right" : "right",
+    "A simple maps app" : "A simple maps app"
 },
 "nplurals=2; plural=(n != 1);");
