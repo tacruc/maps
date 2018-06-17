@@ -1,6 +1,7 @@
 { "translations": {
     "Maps" : "Χάρτες",
     "left" : "αριστερά",
-    "right" : "δεξιά"
+    "right" : "δεξιά",
+    "A simple maps app" : "Μια απλή εφαρμογή με χάρτες"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
