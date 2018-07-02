@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Maps" : "Kartat",
     "left" : "vasen",
-    "right" : "oikea"
+    "right" : "oikea",
+    "A simple maps app" : "Yksinkertainen karttasovellus"
 },
 "nplurals=2; plural=(n != 1);");
