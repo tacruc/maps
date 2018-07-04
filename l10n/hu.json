@@ -1,6 +1,7 @@
 { "translations": {
     "Maps" : "Térképek",
     "left" : "bal",
-    "right" : "jobb"
+    "right" : "jobb",
+    "A simple maps app" : "Egy egyszerű térkép alkalmazás"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

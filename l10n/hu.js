@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Maps" : "Térképek",
     "left" : "bal",
-    "right" : "jobb"
+    "right" : "jobb",
+    "A simple maps app" : "Egy egyszerű térkép alkalmazás"
 },
 "nplurals=2; plural=(n != 1);");
