@@ -1,6 +1,7 @@
 { "translations": {
     "Maps" : "Kartor",
     "left" : "vänster",
-    "right" : "höger"
+    "right" : "höger",
+    "A simple maps app" : "En enkel kart-app"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
