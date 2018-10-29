@@ -1,6 +1,7 @@
 { "translations": {
     "Maps" : "Mapas",
     "left" : "esquerda",
-    "right" : "dereita"
+    "right" : "dereita",
+    "A simple maps app" : "Unha sinxela app de mapas"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
