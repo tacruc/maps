@@ -1,6 +1,7 @@
 { "translations": {
     "Maps" : "Mapak",
     "left" : "ezkerra",
-    "right" : "eskuina"
+    "right" : "eskuina",
+    "A simple maps app" : "Mapa aplikazio sinple bat"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

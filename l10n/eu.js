@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Maps" : "Mapak",
     "left" : "ezkerra",
-    "right" : "eskuina"
+    "right" : "eskuina",
+    "A simple maps app" : "Mapa aplikazio sinple bat"
 },
 "nplurals=2; plural=(n != 1);");
