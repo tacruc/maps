@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Maps" : "نقشه‌ها",
     "left" : "چپ",
-    "right" : "راست"
+    "right" : "راست",
+    "A simple maps app" : "یک ابزار  نقشه ساده"
 },
 "nplurals=2; plural=(n > 1);");
